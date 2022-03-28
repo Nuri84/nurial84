@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurial84
 - 👀 I’m interested in front and back end
-- 🌱 I’m currently learning angular 13 
+- 🌱 I’m currently learning angular 13, I know is Front End, but willin' to learn Back End
 - 💞️ I’m looking to collaborate on ... projects back end.
 - 📫 How to reach me nurialorentesancho@hotmail.es
 - Bilingual on English and Spanish, love techs and easy going person.
